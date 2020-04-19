@@ -3,6 +3,7 @@ basic hardcoded data structure
 MyVecotor operates simular to an ArrayList
 Add methods can add a object at the end of the myList Array, and can increase the capacity of the array if no space.
 Add index can set a objects index to a parameter.
+Remove, removes a specific object at the index and shifts all other objects to the correct index
 Includes isEmpty, which checks to see if it is an empty array
 Clear removes all objects in the array by setting them to null
 Includes get methods for the current capacity and increment to help the unit tests run properly
